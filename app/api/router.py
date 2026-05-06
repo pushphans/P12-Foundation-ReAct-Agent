@@ -17,5 +17,3 @@ async def run_agent(request: AgentRequest) -> AgentResponse:
 
     return AgentResponse(response=response_content)
 
-
-# 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
